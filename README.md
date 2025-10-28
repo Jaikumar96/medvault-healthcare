@@ -2,6 +2,13 @@
 
 ![MedVault Logo](screenshots/admin-dashboard.png)
 
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.1-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Java](https://img.shields.io/badge/Java-17-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-8.0-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![React](https://img.shields.io/badge/React-18-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-4.0-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-3.3-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
 ## 🏥 Project Overview
 
 MedVault is a comprehensive healthcare management system that connects patients, doctors, and administrators through a secure and efficient platform. Built with modern technologies, it offers features like medical record management, appointment scheduling, emergency services, and real-time analytics.
@@ -142,11 +149,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - **Jaikumar R** - *Initial work* - [Jaikumar96](https://github.com/Jaikumar96)
 
-## 📞 Support
-
-For support, email medvault.support@example.com or join our Slack channel.
-
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - Hat tip to anyone whose code was used
 - Inspiration
