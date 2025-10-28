@@ -1,0 +1,39 @@
+# Backend
+/medvault-backend/target/
+/medvault-backend/uploads/
+/medvault-backend/src/main/resources/application.properties
+/medvault-backend/.env
+
+# Frontend
+/medvault-frontend/node_modules/
+/medvault-frontend/.env
+/medvault-frontend/.env.local
+/medvault-frontend/dist/
+/medvault-frontend/build/
+/medvault-frontend/uploads/
+/medvault-frontend-copy/
+/medvault-frontend/src-copy/
+
+# Backend copies
+/medvault-backend/src-copy/
+/medvault-backend/uploads/
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# System Files
+.DS_Store
+Thumbs.db
